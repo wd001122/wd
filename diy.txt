@@ -437,19 +437,6 @@ CCTV-老故事,http://[2409:8087:2001:20:2800:0:df6e:eb08]/ott.mobaibox.com/PLTV
 
 轮播电影,#genre#
 
-iHOT爱科幻,http://[2409:8087:7001:20:1000::95]:6610/000000001001/1/index.m3u8?Contentid=6000000006000020630&livemode=1&stbId=3&channel-id=wasusyt$易视腾陕西
-iHOT爱院线,http://[2409:8087:7001:20:1000::95]:6610/000000001001/1/index.m3u8?Contentid=6000000006000030630&livemode=1&stbId=3&channel-id=wasusyt$易视腾陕西
-iHOT爱喜剧,http://[2409:8087:7001:20:1000::95]:6610/000000001001/1/index.m3u8?Contentid=6000000006000010630&livemode=1&stbId=3&channel-id=wasusyt$易视腾陕西
-iHOT爱奇谈,http://[2409:8087:7001:20:1000::95]:6610/000000001001/1/index.m3u8?Contentid=6000000006000270630&livemode=1&stbId=3&channel-id=wasusyt$易视腾陕西
-iHOT爱怀旧,http://[2409:8087:7001:20:1000::95]:6610/000000001001/1/index.m3u8?Contentid=6000000006000260630&livemode=1&stbId=3&channel-id=wasusyt$易视腾陕西
-CCTV-6电影,http://[2409:8087:7001:20:1000::95]:6610/000000001001/1/index.m3u8?Contentid=6000000001000004574&livemode=1&stbId=3&channel-id=wasusyt$易视腾陕西
-亚洲影院,http://[2409:8087:7001:20:1000::95]:6610/000000001001/1/index.m3u8?Contentid=5841816227539527643&livemode=1&stbId=3&channel-id=wasusyt$易视腾陕西
-欧美影院,http://[2409:8087:7001:20:1000::95]:6610/000000001001/1/index.m3u8?Contentid=7185203501769528108&livemode=1&stbId=3&channel-id=wasusyt$易视腾陕西
-黑莓电影,http://[2409:8087:7001:20:1000::95]:6610/000000001001/1/index.m3u8?Contentid=1000000004000019624&livemode=1&stbId=3&channel-id=ystenlive$易视腾陕西
-动作电影,http://[2409:8087:7001:20:1000::95]:6610/000000001001/1/index.m3u8?Contentid=1000000004000018653&livemode=1&stbId=2&channel-id=ystenlive$易视腾陕西
-惊悚悬疑,http://[2409:8087:7001:20:1000::95]:6610/000000001001/1/index.m3u8?Contentid=1000000004000024282&livemode=1&stbId=2&channel-id=ystenlive$易视腾陕西
-超级电影,http://[2409:8087:7001:20:1000::95]:6610/000000001001/1/index.m3u8?Contentid=1000000003000012426&livemode=1&stbId=2&channel-id=ystenlive$易视腾陕西
-4K影院,http://[2409:8087:7001:20:1000::95]:6610/000000001001/1/index.m3u8?Contentid=6000000003000004748&livemode=1&stbId=3&channel-id=wasusyt$易视腾陕西
 iHOT爱科幻,http://[2409:8087:7000:20:1000::22]:6060/000000001000/1/index.m3u8?Contentid=6000000006000020630&livemode=1&stbId=3&channel-id=wasusyt$易视腾陕西
 iHOT爱院线,http://[2409:8087:7000:20:1000::22]:6060/000000001000/1/index.m3u8?Contentid=6000000006000030630&livemode=1&stbId=3&channel-id=wasusyt$易视腾陕西
 iHOT爱喜剧,http://[2409:8087:7000:20:1000::22]:6060/000000001000/1/index.m3u8?Contentid=6000000006000010630&livemode=1&stbId=3&channel-id=wasusyt$易视腾陕西
@@ -463,6 +450,19 @@ CCTV-6电影,http://[2409:8087:7000:20:1000::22]:6060/000000001000/1/index.m3u8?
 惊悚悬疑,http://[2409:8087:7000:20:1000::22]:6060/000000001000/1/index.m3u8?Contentid=1000000004000024282&livemode=1&stbId=2&channel-id=ystenlive$易视腾陕西
 超级电影,http://[2409:8087:7000:20:1000::22]:6060/000000001000/1/index.m3u8?Contentid=1000000003000012426&livemode=1&stbId=2&channel-id=ystenlive$易视腾陕西
 4K影院,http://[2409:8087:7000:20:1000::22]:6060/000000001000/1/index.m3u8?Contentid=6000000003000004748&livemode=1&stbId=3&channel-id=wasusyt$易视腾陕西
+iHOT爱科幻,http://[2409:8087:7001:20:1000::95]:6610/000000001001/1/index.m3u8?Contentid=6000000006000020630&livemode=1&stbId=3&channel-id=wasusyt$易视腾陕西
+iHOT爱院线,http://[2409:8087:7001:20:1000::95]:6610/000000001001/1/index.m3u8?Contentid=6000000006000030630&livemode=1&stbId=3&channel-id=wasusyt$易视腾陕西
+iHOT爱喜剧,http://[2409:8087:7001:20:1000::95]:6610/000000001001/1/index.m3u8?Contentid=6000000006000010630&livemode=1&stbId=3&channel-id=wasusyt$易视腾陕西
+iHOT爱奇谈,http://[2409:8087:7001:20:1000::95]:6610/000000001001/1/index.m3u8?Contentid=6000000006000270630&livemode=1&stbId=3&channel-id=wasusyt$易视腾陕西
+iHOT爱怀旧,http://[2409:8087:7001:20:1000::95]:6610/000000001001/1/index.m3u8?Contentid=6000000006000260630&livemode=1&stbId=3&channel-id=wasusyt$易视腾陕西
+CCTV-6电影,http://[2409:8087:7001:20:1000::95]:6610/000000001001/1/index.m3u8?Contentid=6000000001000004574&livemode=1&stbId=3&channel-id=wasusyt$易视腾陕西
+亚洲影院,http://[2409:8087:7001:20:1000::95]:6610/000000001001/1/index.m3u8?Contentid=5841816227539527643&livemode=1&stbId=3&channel-id=wasusyt$易视腾陕西
+欧美影院,http://[2409:8087:7001:20:1000::95]:6610/000000001001/1/index.m3u8?Contentid=7185203501769528108&livemode=1&stbId=3&channel-id=wasusyt$易视腾陕西
+黑莓电影,http://[2409:8087:7001:20:1000::95]:6610/000000001001/1/index.m3u8?Contentid=1000000004000019624&livemode=1&stbId=3&channel-id=ystenlive$易视腾陕西
+动作电影,http://[2409:8087:7001:20:1000::95]:6610/000000001001/1/index.m3u8?Contentid=1000000004000018653&livemode=1&stbId=2&channel-id=ystenlive$易视腾陕西
+惊悚悬疑,http://[2409:8087:7001:20:1000::95]:6610/000000001001/1/index.m3u8?Contentid=1000000004000024282&livemode=1&stbId=2&channel-id=ystenlive$易视腾陕西
+超级电影,http://[2409:8087:7001:20:1000::95]:6610/000000001001/1/index.m3u8?Contentid=1000000003000012426&livemode=1&stbId=2&channel-id=ystenlive$易视腾陕西
+4K影院,http://[2409:8087:7001:20:1000::95]:6610/000000001001/1/index.m3u8?Contentid=6000000003000004748&livemode=1&stbId=3&channel-id=wasusyt$易视腾陕西
 爱上4K,rtsp://112.111.36.140/PLTV/88888909/224/3221225965/10000100000000060000000003176328_0.smil$福建联通112
 爱上4K,rtsp://58.22.135.5/PLTV/88888909/224/3221225965/10000100000000060000000003176328_0.smil$福建联通58
 爱上4K,rtsp://220.200.30.136/PLTV/88888909/224/3221225965/10000100000000060000000003176328_0.smil$福建联通220
@@ -726,13 +726,5 @@ CHC动作电影,rtsp://27.148.236.129:554/live/ch22091415255480246214.sdp?FccMed
 梨园频道,rtsp://27.148.236.129:554/live/ch22091416101671606843.sdp?FccMediaIP=239.61.3.19&FccMediaPort=9634&vcdnid=001&mediaid=ch22091416101671606843&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPeh0015ufnasW9d9g19%2BpTN%2FKvRD5dgDLebgF3MYCL%2Be00d8RtgP2DayASZlOpMLMaA%3D%3D$福建RTSP
 文物宝库,rtsp://27.148.236.129:554/live/ch22091416245095951152.sdp?FccMediaIP=239.61.3.21&FccMediaPort=9646&vcdnid=001&mediaid=ch22091416245095951152&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPelmZ9UjhfI%2BOZEczIvns9pysv%2FGXa76uRzU1I%2Bo1t1f90d8RtgP2DayASZlOpMLMaA%3D%3D$福建RTSP
 武术世界,rtsp://27.148.236.129:554/live/ch22091416293105555892.sdp?FccMediaIP=239.61.3.22&FccMediaPort=9652&vcdnid=001&mediaid=ch22091416293105555892&AuthInfo=Jz%2F%2BoxTcEWQ734O5OnSPelmZ9UjhfI%2BOZEczIvns9pypOapasDlmqWxQ5NqBveoj0d8RtgP2DayASZlOpMLMaA%3D%3D$福建RTSP
-乐游频道,http://27.148.240.138/PLTV/88888888/224/3221226768/1.m3u8$福建电信
-生活时尚,http://27.148.240.138/PLTV/88888888/224/3221226740/1.m3u8$福建电信
-动漫秀场,http://27.148.240.138/PLTV/88888888/224/3221226750/1.m3u8$福建电信
-都市剧场,http://27.148.240.138/PLTV/88888888/224/3221226724/1.m3u8$福建电信
-欢笑剧场,http://27.148.240.138/PLTV/88888888/224/3221226761/1.m3u8$福建电信
-金色学堂,http://27.148.240.138/PLTV/88888888/224/3221226923/1.m3u8$福建电信
-快乐垂钓,http://27.148.240.138/PLTV/88888888/224/3221226999/1.m3u8$福建电信
-游戏风云,http://27.148.240.138/PLTV/88888888/224/3221226759/1.m3u8$福建电信
-第一财经,http://27.148.240.138/PLTV/88888888/224/3221226835/1.m3u8$福建电信
+
 
