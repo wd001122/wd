@@ -29,17 +29,9 @@ CGTN俄语,rtsp://112.111.36.140/PLTV/88888909/224/3221225852/100001000000000600
 
 卫视联通,#genre#
 
-凤凰资讯http://123.207.56.192/box/list.php?sel=fjgd&id=fhzx$IP代理
-凤凰中文http://123.207.56.192/box/list.php?sel=fjgd&id=fhzw$IP代理
-凤凰资讯http://www.terrykang.cn:5678/fjgd.php?id=fhzx$广电代理
-凤凰中文http://www.terrykang.cn:5678/fjgd.php?id=fhzw$广电代理
-
 凤凰资讯,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8$重庆联通
 凤凰中文,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8$重庆联通
 凤凰香港,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8$重庆联通
-凤凰资讯,http://avd.iptviptv.site:9694/hls/732/index.m3u8$酒店源
-凤凰中文,http://avd.iptviptv.site:9694/hls/731/index.m3u8$酒店源
-凤凰香港,http://avd.iptviptv.site:9694/hls/730/index.m3u8$酒店源
 凤凰资讯,http://www.lebaobei.top:6868/udp/239.255.30.70:8231$组播6
 凤凰中文,http://www.lebaobei.top:6868/udp/239.255.30.50:8231$组播6
 凤凰香港,http://www.lebaobei.top:6868/udp/239.255.30.123:8231$组播6
@@ -86,11 +78,6 @@ CGTN俄语,rtsp://112.111.36.140/PLTV/88888909/224/3221225852/100001000000000600
 三沙卫视,rtsp://112.111.36.140/PLTV/88888909/224/3221225804/10000100000000060000000001515181_0.smil$福建联通112#rtsp://58.22.135.5/PLTV/88888909/224/3221225804/10000100000000060000000001515181_0.smil$福建联通58#rtsp://220.200.30.136/PLTV/88888909/224/3221225804/10000100000000060000000001515181_0.smil$福建联通220
 
 福建联通,#genre#
-
-泉州新闻http://123.207.56.192/box/list.php?sel=fjgd&id=qz1$IP代理
-泉州闽南语http://123.207.56.192/box/list.php?sel=fjgd&id=qz4$IP代理
-泉州新闻http://www.terrykang.cn:5678/fjgd.php?id=qz1$广电代理
-泉州闽南语http://www.terrykang.cn:5678/fjgd.php?id=qz4$广电代理
 
 泉州新闻,rtsp://112.111.36.140/PLTV/88888909/224/3221225838/10000100000000060000000002442472_0.smil$福建联通112#rtsp://58.22.135.5/PLTV/88888909/224/3221225838/10000100000000060000000002442472_0.smil$福建联通58#rtsp://220.200.30.136/PLTV/88888909/224/3221225838/10000100000000060000000002442472_0.smil$福建联通220
 海峡卫视,rtsp://112.111.36.140/PLTV/88888909/224/3221225787/10000100000000060000000001426615_0.smil$福建联通112#rtsp://58.22.135.5/PLTV/88888909/224/3221225787/10000100000000060000000001426615_0.smil$福建联通58#rtsp://220.200.30.136/PLTV/88888909/224/3221225787/10000100000000060000000001426615_0.smil$福建联通220
@@ -173,15 +160,6 @@ CHC家庭影院,http://video.qd.sdu.edu.cn/liverespath/449d51febadb152094085d373
 CHC影迷电影,http://[2001:250:5800:1005::155]/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8$山东V6
 CHC动作电影,http://[2001:250:5800:1005::155]/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/index.m3u8$山东V6
 CHC家庭影院,http://[2001:250:5800:1005::155]/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8$山东V6
-CHC影迷电影http://123.207.56.192/box/list.php?sel=fjgd&id=chcgq$IP代理
-CHC动作电影http://123.207.56.192/box/list.php?sel=fjgd&id=chcdz$IP代理
-CHC家庭影院http://123.207.56.192/box/list.php?sel=fjgd&id=chcjt$IP代理
-CHC影迷电影,http://avd.iptviptv.site:9694/hls/702/index.m3u8$酒店源
-CHC动作电影,http://avd.iptviptv.site:9694/hls/701/index.m3u8$酒店源
-CHC家庭影院,http://avd.iptviptv.site:9694/hls/700/index.m3u8$酒店源
-CHC影迷电影http://www.terrykang.cn:5678/fjgd.php?id=chcgq$广电代理
-CHC动作电影http://www.terrykang.cn:5678/fjgd.php?id=chcdz$广电代理
-CHC家庭影院http://www.terrykang.cn:5678/fjgd.php?id=chcjt$广电代理
 
 斗鱼贝爷影厅,http://maomao.kandiantv.cn/douyu1.php?id=252802$maomao
 斗鱼漫威电影,http://maomao.kandiantv.cn/douyu1.php?id=6140589$maomao
